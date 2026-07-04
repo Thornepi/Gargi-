@@ -14,6 +14,7 @@ First Year B.Sc. Computer Science Student,Turning Curiosity into Code.
 - C++ (Turbo C++)
 - HTML
 - Visual Basic 6
+- AI Tools & Prompting
 
 ## Currently Learning
 - Computer Science fundamentals
