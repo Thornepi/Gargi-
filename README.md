@@ -28,4 +28,5 @@ First Year B.Sc. Computer Science Student,Turning Curiosity into Code.
 - New to Figma and Kotlin — just curious to learn them later.
 
 ### Connect with Me
-Thank you for visiting my profile! 
+Thank you for visiting my profile! (change)
+
